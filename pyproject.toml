@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ofensivo-mx"
+version = "0.1.0"
+description = "Clasificador de texto ofensivo (groserías, clasismo, acoso) en español de México"
+requires-python = ">=3.10"
+dependencies = [
+  "tensorflow>=2.16", "scikit-learn>=1.4", "pandas>=2.0",
+  "numpy>=1.26", "matplotlib>=3.8", "joblib>=1.3",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

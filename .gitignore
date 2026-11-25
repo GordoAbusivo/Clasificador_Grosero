@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+models/
+reports/*/
+.DS_Store
+# datos reales o scrapeados: NO subir (privacidad / términos de uso)
+data/raw/
+data/privado/
+reports/comparacion.md
+__pycache__/
+.pytest_cache/

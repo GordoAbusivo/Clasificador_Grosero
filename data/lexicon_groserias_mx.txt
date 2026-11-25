@@ -1,0 +1,49 @@
+# Léxico de groserías comunes del español de México.
+# SOLO se usa para decodificar palabras censuradas con símbolos (p*ta, ch#ngada).
+# No es un clasificador: "qué chingón" contiene una grosería y NO es ofensivo.
+# Una palabra por línea, sin acentos. Amplíalo con tu equipo.
+puta
+puto
+putos
+putas
+pendejo
+pendeja
+pendejos
+pendejas
+chingar
+chingada
+chingado
+chingadera
+chinga
+verga
+cabron
+cabrona
+culero
+culera
+mamada
+mamadas
+mierda
+idiota
+estupido
+estupida
+imbecil
+mamon
+mamona
+cagada
+joder
+huevon
+huevona
+marica
+zorra
+naco
+naca
+mugroso
+mugrosa
+pinche
+ojete
+baboso
+babosa
+menso
+mensa
+tarado
+tarada

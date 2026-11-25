@@ -1,0 +1,101 @@
+texto,etiqueta,categoria
+"Cállate ya, pendejo, nadie te preguntó nada.",1,groseria_dirigida
+"Eres un inútil de mierda, no sirves para nada.",1,groseria_dirigida
+"Vete a la chingada, estúpida, me tienes harto.",1,groseria_dirigida
+"Qué cabrón tan culero eres, ojalá te caigas.",1,groseria_dirigida
+"Eres un pinche imbécil, mejor ni hables.",1,groseria_dirigida
+"Tu mamá debería avergonzarse de ti, pedazo de idiota.",1,groseria_dirigida
+"Hdp, por tu culpa nos reprobaron a todos.",1,groseria_dirigida
+"Cierra el hocico, mugroso, que nadie te soporta.",1,groseria_dirigida
+"Qué pendeja eres, ni una cosa te sale bien.",1,groseria_dirigida
+"Eres una verga para el equipo, mejor sálgase.",1,groseria_dirigida
+"Q p3nd3j0 eres, no sabes ni lo que dices.",1,groseria_dirigida
+"Eres un p*to inútil, nadie te quiere aquí 🤡",1,groseria_dirigida
+"Qué esperabas de alguien que vive en esa colonia, puro naco.",1,clasismo
+"Ni te acerques, te falta dinero para andar con nosotros.",1,clasismo
+"Seguro tus papás ni la colegiatura te pagan, muerto de hambre.",1,clasismo
+Ese uniforme remendado ya dice de dónde vienes.,1,clasismo
+"Los de prepa pública son unos ignorantes, no los quiero en mi equipo.",1,clasismo
+"Habla bien, se nota que no pisaste una escuela de paga.",1,clasismo
+Qué corriente te ves con esa ropa del tianguis.,1,clasismo
+"No juntes tus cosas con las mías, seguro huelen a pobreza.",1,clasismo
+"Compra ropa de marca, se nota que eres de barrio.",1,clasismo
+Con esa ortografía se nota de qué cerro bajaste.,1,clasismo
+"Con ese color de piel no pareces de esta escuela, regrésate a tu pueblo.",1,racismo
+"Qué indio tan bruto, no entiende nada.",1,racismo
+"Seguro eres de provincia, qué ignorante hablas.",1,racismo
+"Por eso no los dejan entrar, la gente como tú no tiene educación.",1,racismo
+"Las mujeres no deberían jugar videojuegos, vete a la cocina.",1,misoginia_acoso
+Esa vieja solo llegó al puesto por andar de resbalosa.,1,misoginia_acoso
+"Mándame una foto sin ropa y te dejo en paz, no te hagas.",1,misoginia_acoso
+"Seguro cobras por tus fotos, qué facilota eres.",1,misoginia_acoso
+"Calladita te ves más bonita, no opines de cosas de hombres.",1,misoginia_acoso
+"Con esa panza no entras a la foto, hazte a un lado, gorda.",1,apariencia
+"Qué fea te ves hoy, ni el maquillaje te salva.",1,apariencia
+"Pareces un palillo, das lástima con esos brazos.",1,apariencia
+"Tu acné da asco, ¿no te lavas la cara?",1,apariencia
+Con esa cara mejor ni salgas de tu casa.,1,apariencia
+"No lo agreguen al grupo, nadie lo quiere ahí.",1,exclusion
+Hagámosle el vacío hasta que se vaya del salón.,1,exclusion
+"Nadie te invitó, lárgate de nuestra mesa.",1,exclusion
+"Borren a ese del chat, solo estorba.",1,exclusion
+"Ni lo saludes, no vale la pena hablarle al rarito ese.",1,exclusion
+Te voy a esperar a la salida y vas a ver lo que te pasa.,1,amenaza
+"Si abres la boca otra vez, te parto la cara.",1,amenaza
+"Ya sé dónde vives, ojalá no salgas solo mañana.",1,amenaza
+"Aprovecha tus últimos días aquí, te vamos a hacer la vida imposible.",1,amenaza
+"Qué orgullo que seas el más tonto del salón, un aplauso para ti.",1,sarcasmo_hostil
+Qué valiente eres para opinar sin saber nada.,1,sarcasmo_hostil
+"Felicidades por reprobar otra vez, ya eres especialista.",1,sarcasmo_hostil
+"Pobrecito, de verdad crees que le importas a alguien.",1,sarcasmo_hostil
+Admiro tu confianza para hablar sin tener un solo amigo.,1,sarcasmo_hostil
+¿A qué hora empieza la clase de mañana?,0,neutro
+"Gracias por pasarme los apuntes, me salvaste.",0,neutro
+"Hoy hace mucho calor, voy por una agua de jamaica.",0,neutro
+Nos vemos en la biblioteca después de comer.,0,neutro
+Me encantó la película que recomendaste ayer.,0,neutro
+"Ya terminé el reporte, lo subo en la noche.",0,neutro
+"Felicidades por tu cumpleaños, que la pases increíble.",0,neutro
+¿Alguien tiene el link de la junta de Zoom?,0,neutro
+"Mi equipo ganó el partido, estoy feliz.",0,neutro
+"Qué bonita foto, se ve que la pasaron bien.",0,neutro
+"Vamos por unos tacos saliendo, yo invito.",0,neutro
+"Mañana hay examen de cálculo, ¿estudiamos juntos?",0,neutro
+El profesor dejó la tarea para el viernes.,0,neutro
+"Me gusta tu corte de cabello, te queda muy bien.",0,neutro
+"Gracias por escucharme ayer, me hacía falta platicar.",0,neutro
+El metro venía lleno pero llegué a tiempo.,0,neutro
+"Qué buena exposición hiciste, explicaste todo clarísimo.",0,neutro
+"Si necesitas ayuda con la tarea, avísame.",0,neutro
+"Llegué bien a casa, gracias por el aventón.",0,neutro
+"Esta tarde llueve, mejor llevo paraguas.",0,neutro
+¿Me prestas tu calculadora un momento?,0,neutro
+Los resultados del examen salen el lunes.,0,neutro
+"Estoy aprendiendo a programar en Python, es divertido.",0,neutro
+"Gracias por invitarme a tu fiesta, la pasé genial.",0,neutro
+"Nos tocó el mismo equipo, qué suerte.",0,neutro
+Cuídate mucho y avísame cuando llegues.,0,neutro
+"Ya casi es fin de semana, aguanta.",0,neutro
+"Me da pena no haber respondido antes, andaba sin internet.",0,neutro
+"Hay que reportar a quien moleste a los compañeros, el bullying no es juego.",0,neutro
+En la plática de hoy hablaron de cómo detener el acoso escolar.,0,neutro
+"Qué chingón quedó tu proyecto, felicidades.",0,groseria_no_ofensiva
+"No manches, qué buen concierto estuvo.",0,groseria_no_ofensiva
+"Esta tarea me está matando, no entiendo nada.",0,groseria_no_ofensiva
+Estoy hasta la madre de tanto tráfico.,0,groseria_no_ofensiva
+"Soy un pendejo, olvidé mi cartera otra vez.",0,groseria_no_ofensiva
+"Qué pinche frío hace hoy, no me quiero levantar.",0,groseria_no_ofensiva
+"Wey, te rifaste con ese gol, estuvo de lujo.",0,groseria_no_ofensiva
+Me cae de madre que no sabía que hoy era el examen.,0,groseria_no_ofensiva
+"Chale, me quedé sin batería en pleno juego.",0,groseria_no_ofensiva
+"Está bien cabrón este videojuego, no lo suelto.",0,groseria_no_ofensiva
+"Qué verga de clima, puro sol y sin aire.",0,groseria_no_ofensiva
+"Ya valió madres mi celular, se cayó al agua.",0,groseria_no_ofensiva
+"Estoy muy cansado, ya me quiero morir de sueño.",0,groseria_no_ofensiva
+"No mames, ¡qué susto me diste!",0,groseria_no_ofensiva
+"Mi hermano es bien menso, se puso la camisa al revés.",0,groseria_no_ofensiva
+"Pinche examen tan difícil, pero ya pasó.",0,groseria_no_ofensiva
+"Neta eres bien buena onda, gracias por todo.",0,groseria_no_ofensiva
+Hoy me fue de la chingada en el trabajo.,0,groseria_no_ofensiva
+"Eres un cabrón, me hiciste reír mucho con ese chiste.",0,groseria_no_ofensiva
+"Ptm, se me olvidó el cargador otra vez.",0,groseria_no_ofensiva
